@@ -9,10 +9,10 @@ public abstract class Item
     public static final String SEPARATOR = "|";
 
     //Instance Variables
-    private String itemType; // e.g. "water bottle", "jacket"
-    private String color; // e.g. "blue", "black"
-    private String brand; // e.g. "nike", "apple", "unknown"
-    private String location; // e.g. "gym", "cafeteria"
+    private String itemType; // "water bottle", "jacket"
+    private String color; // "blue", "black"
+    private String brand; // "nike", "apple", "unknown"
+    private String location; // "gym", "cafeteria"
     private String date; // MM/DD/YYYY format
 
     //Creates an item with the shared matching fields
