@@ -1,0 +1,18 @@
+# Compiled Java files
+*.class
+
+# IntelliJ
+.idea/
+out/
+*.iml
+
+# VS Code
+.vscode/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Program save files
+lost_items.txt
+found_items.txt
