@@ -1,6 +1,6 @@
 # Lost & Found Matchmaker
 
-A Java console-based lost and found system built for APCSA 2025-2026.
+A Java console-based school lost-and-found system that stores reports and ranks possible matches using item details like type, color, brand, location, and date.
 
 ## Overview
 This project helps organize lost and found reports at school by allowing users to:
@@ -62,5 +62,4 @@ The program was tested for:
 Run `TestRunner.java` to view test results.
 
 ## Author
-Nevin Abraham & Behera  
-APCSA 2025-2026
+Nevin Abraham & Aarush Behera
